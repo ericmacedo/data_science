@@ -1,4 +1,4 @@
-./R/RData
-/R/Rhistory
-./Python/__pycache__
+./R/.RData
+/R/.Rhistory
+./Python/__pycache__/
 .directory
